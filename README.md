@@ -1,12 +1,23 @@
-### Ahoy!
-![](https://searx.info/image_proxy?url=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.eGdbhOw0VOyUua6TyUvjDgHaHa%26pid%3D15.1&h=307b45d7636c6d9f8ad89d05d50a393c4887217986674391a8584cce245200a4)
+# Ahoy! Welcome to my Profile
 
-Just another internet human who does coding and things... I very much recommend you check out my [website](https://declanchidlow.github.io) if you require more comprehensive information or wish to view my resume.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lexend&size=17&color=F7F7F7&vCenter=true&width=600&lines=Just+another+internet+human+who+does+coding+and+things...;I+very+much+recommend+you+check+out+my+website...;I+hope+you+find+my+projects+useful...)
 
+### Relevant Accounts...
+[![Linkedin Badge](https://img.shields.io/badge/-DeclanChidlow-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/declan-chidlow)](https://www.linkedin.com/in/declan-chidlow)
+[![Scratch Badge](https://img.shields.io/badge/-ValenceTheHuman-orange?style=for-the-badge&logo=Scratch&logoColor=white&link=https://scratch.mit.edu/users/ValenceTheHuman)](https://scratch.mit.edu/users/ValenceTheHuman)
+[![Website Badge](https://img.shields.io/badge/-declanchidlow.github.io-blue?style=for-the-badge&logo=internet-explorer&logoColor=white&link=https://declanchidlow.github.io)](https://declanchidlow.github.io)
 
+### Competent With...
+![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=Python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-red?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-lightgrey?style=for-the-badge&logo=GitHub&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-orange?style=for-the-badge&logo=GitLab&logoColor=white)
+![Atom](https://img.shields.io/badge/-Atom-yellowgreen?style=for-the-badge&logo=Atom&logoColor=white)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DeclanChidlow)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/declan-chidlow/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://declanchidlow.github.io/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg' alt='buymeacoffee' height='40'>](https://www.buymeacoffee.com/ValenceTheHuman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/scratch.svg' alt='scratch' height='40'>](https://scratch.mit.edu/users/ValenceTheHuman/)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeclanChidlow&theme=dark&bg_color=#0D1117&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeclanChidlow&layout=compact&theme=dark&bg_color=#0D1117&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeclanChidlow&theme=dark&show_icons=true)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeclanChidlow&theme=dark&show_icons=true&count_private=true)  
+Like what you see? \
+[![Buy Me A Coffee Badge](https://img.shields.io/badge/-Buy_Me_A_Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&link=https://www.buymeacoffee.com/ValenceTheHuman)](https://www.buymeacoffee.com/ValenceTheHuman)
