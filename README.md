@@ -3,9 +3,11 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lexend&size=17&color=C9D1D9&vCenter=true&width=600&lines=Just+another+internet+human+who+does+coding+and+things...;I+very+much+recommend+you+check+out+my+website...;I+hope+you+find+my+projects+useful...)
 
 ### Relevant Accounts...
-[![Linkedin Badge](https://img.shields.io/badge/-DeclanChidlow-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/declan-chidlow)](https://www.linkedin.com/in/declan-chidlow)
+[![Odysee Badge](https://img.shields.io/badge/-ValenceTheHuman-ff69b4?style=for-the-badge&logo=Odysee&logoColor=white&link=https://odysee.com/@Valence:4)](https://odysee.com/@Valence:4)
 [![Scratch Badge](https://img.shields.io/badge/-ValenceTheHuman-orange?style=for-the-badge&logo=Scratch&logoColor=white&link=https://scratch.mit.edu/users/ValenceTheHuman)](https://scratch.mit.edu/users/ValenceTheHuman)
-[![Website Badge](https://img.shields.io/badge/-declanchidlow.github.io-blue?style=for-the-badge&logo=internet-explorer&logoColor=white&link=https://declanchidlow.github.io)](https://declanchidlow.github.io)
+[![Telegram Badge](https://img.shields.io/badge/-ValenceTheHuman-blue?style=for-the-badge&logo=Telegram&logoColor=white&link=https://t.me/ValenceTheHuman)](https://t.me/ValenceTheHuman)
+[![Matrix Badge](https://img.shields.io/badge/-ValenceTheHuman-lightgrey?style=for-the-badge&logo=Matrix&logoColor=white&link=https://matrix.to/#/@valencethehuman:matrix.org)](https://matrix.to/#/@valencethehuman:matrix.org)
+[![Website Badge](https://img.shields.io/badge/-declanchidlow.github.io-blue?style=for-the-badge&logo=Internet-Explorer&logoColor=white&link=https://declanchidlow.github.io)](https://declanchidlow.github.io)
 
 ### Competent With...
 ![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=Python&logoColor=white)
