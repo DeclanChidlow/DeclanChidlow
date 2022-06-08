@@ -1,6 +1,6 @@
 # Ahoy! Welcome to my Profile
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lexend&size=17&color=F7F7F7&vCenter=true&width=600&lines=Just+another+internet+human+who+does+coding+and+things...;I+very+much+recommend+you+check+out+my+website...;I+hope+you+find+my+projects+useful...)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lexend&size=17&color=C9D1D9&vCenter=true&width=600&lines=Just+another+internet+human+who+does+coding+and+things...;I+very+much+recommend+you+check+out+my+website...;I+hope+you+find+my+projects+useful...)
 
 ### Relevant Accounts...
 [![Linkedin Badge](https://img.shields.io/badge/-DeclanChidlow-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/declan-chidlow)](https://www.linkedin.com/in/declan-chidlow)
