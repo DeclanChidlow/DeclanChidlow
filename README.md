@@ -7,19 +7,20 @@
 [![Scratch Badge](https://img.shields.io/badge/-ValenceTheHuman-orange?style=for-the-badge&logo=Scratch&logoColor=white&link=https://scratch.mit.edu/users/ValenceTheHuman)](https://scratch.mit.edu/users/ValenceTheHuman)
 [![Telegram Badge](https://img.shields.io/badge/-ValenceTheHuman-blue?style=for-the-badge&logo=Telegram&logoColor=white&link=https://t.me/ValenceTheHuman)](https://t.me/ValenceTheHuman)
 [![Matrix Badge](https://img.shields.io/badge/-ValenceTheHuman-lightgrey?style=for-the-badge&logo=Matrix&logoColor=white&link=https://matrix.to/#/@valencethehuman:matrix.org)](https://matrix.to/#/@valencethehuman:matrix.org)
+[![GitLab Badge](https://img.shields.io/badge/-GitLab-orange?style=for-the-badge&logo=GitLab&logoColor=white&link=https://gitlab.com/DeclanChidlow)](https://gitlab.com/DeclanChidlow)
 [![Website Badge](https://img.shields.io/badge/-declanchidlow.github.io-blue?style=for-the-badge&logo=Internet-Explorer&logoColor=white&link=https://declanchidlow.github.io)](https://declanchidlow.github.io)
 
 ### Competent With...
-![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=Python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-red?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-lightgrey?style=for-the-badge&logo=GitHub&logoColor=white)
-![GitLab](https://img.shields.io/badge/-GitLab-orange?style=for-the-badge&logo=GitLab&logoColor=white)
-![Atom](https://img.shields.io/badge/-Atom-yellowgreen?style=for-the-badge&logo=Atom&logoColor=white)
+[![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org)
+[![HTML5](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)
+[![CSS3](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
+[![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-red?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)](https://www.raspberrypi.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-lightgrey?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com)
+[![Atom](https://img.shields.io/badge/-Atom-yellowgreen?style=for-the-badge&logo=Atom&logoColor=white)](https://atom.io)
+![More](https://img.shields.io/badge/-And%20much%20more!-yellow?style=for-the-badge&logoColor=white)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeclanChidlow&theme=dark&bg_color=#0D1117&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeclanChidlow&layout=compact&theme=dark&bg_color=#0D1117&show_icons=true)
 
-Like what you see? \
+#### Like what you see?
 [![Buy Me A Coffee Badge](https://img.shields.io/badge/-Buy_Me_A_Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&link=https://www.buymeacoffee.com/ValenceTheHuman)](https://www.buymeacoffee.com/ValenceTheHuman)
