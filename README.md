@@ -16,7 +16,6 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
 [![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-red?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)](https://www.raspberrypi.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-lightgrey?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com)
-[![Atom](https://img.shields.io/badge/-Atom-yellowgreen?style=for-the-badge&logo=Atom&logoColor=white)](https://atom.io)
 ![More](https://img.shields.io/badge/-And%20much%20more!-yellow?style=for-the-badge&logoColor=white)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeclanChidlow&theme=dark&bg_color=#0D1117&show_icons=true&count_private=true)
