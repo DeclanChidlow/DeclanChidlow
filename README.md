@@ -1,4 +1,4 @@
-# Ahoy! Welcome to my Profile
+# Ahoy!
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lexend&size=17&color=C9D1D9&vCenter=true&width=600&lines=Just+another+internet+human+who+does+coding+and+things...;I+very+much+recommend+you+check+out+my+website...;I+hope+you+find+my+projects+useful...)
 
