@@ -19,8 +19,8 @@
 [![Wordpress](https://img.shields.io/badge/-WordPress-blue?style=for-the-badge&logo=WordPress&logoColor=white)](https://wordpress.org)
 ![More](https://img.shields.io/badge/-And%20much%20more!-yellow?style=for-the-badge&logoColor=white)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeclanChidlow&theme=dark&bg_color=#0D1117&show_icons=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeclanChidlow&layout=compact&theme=dark&bg_color=#0D1117&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeclanChidlow&theme=omni&bg_color=#0D1117&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeclanChidlow&layout=compact&theme=omni&bg_color=#0D1117&show_icons=true)
 
 #### Like what you see?
 [![Buy Me A Coffee Badge](https://img.shields.io/badge/-Buy_Me_A_Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&link=https://www.buymeacoffee.com/ValenceTheHuman)](https://www.buymeacoffee.com/ValenceTheHuman)
