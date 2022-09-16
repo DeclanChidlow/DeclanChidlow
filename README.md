@@ -5,7 +5,6 @@
 ### Relevant Accounts...
 [![Odysee Badge](https://img.shields.io/badge/-ValenceTheHuman-ff69b4?style=for-the-badge&logo=Odysee&logoColor=white&link=https://odysee.com/@Valence:4)](https://odysee.com/@Valence:4)
 [![Scratch Badge](https://img.shields.io/badge/-ValenceTheHuman-orange?style=for-the-badge&logo=Scratch&logoColor=white&link=https://scratch.mit.edu/users/ValenceTheHuman)](https://scratch.mit.edu/users/ValenceTheHuman)
-[![Telegram Badge](https://img.shields.io/badge/-ValenceTheHuman-blue?style=for-the-badge&logo=Telegram&logoColor=white&link=https://t.me/ValenceTheHuman)](https://t.me/ValenceTheHuman)
 [![Matrix Badge](https://img.shields.io/badge/-ValenceTheHuman-lightgrey?style=for-the-badge&logo=Matrix&logoColor=white&link=https://matrix.to/#/@valencethehuman:matrix.org)](https://matrix.to/#/@valencethehuman:matrix.org)
 [![GitLab Badge](https://img.shields.io/badge/-GitLab-orange?style=for-the-badge&logo=GitLab&logoColor=white&link=https://gitlab.com/DeclanChidlow)](https://gitlab.com/DeclanChidlow)
 [![Website Badge](https://img.shields.io/badge/-declanchidlow.github.io-blue?style=for-the-badge&logo=Internet-Explorer&logoColor=white&link=https://declanchidlow.github.io)](https://declanchidlow.github.io)
