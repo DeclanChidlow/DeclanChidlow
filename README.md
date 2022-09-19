@@ -7,7 +7,7 @@
 [![Scratch Badge](https://img.shields.io/badge/-ValenceTheHuman-orange?style=for-the-badge&logo=Scratch&logoColor=white&link=https://scratch.mit.edu/users/ValenceTheHuman)](https://scratch.mit.edu/users/ValenceTheHuman)
 [![Matrix Badge](https://img.shields.io/badge/-ValenceTheHuman-lightgrey?style=for-the-badge&logo=Matrix&logoColor=white&link=https://matrix.to/#/@valencethehuman:matrix.org)](https://matrix.to/#/@valencethehuman:matrix.org)
 [![GitLab Badge](https://img.shields.io/badge/-GitLab-orange?style=for-the-badge&logo=GitLab&logoColor=white&link=https://gitlab.com/DeclanChidlow)](https://gitlab.com/DeclanChidlow)
-[![Website Badge](https://img.shields.io/badge/-declanchidlow.github.io-blue?style=for-the-badge&logo=Internet-Explorer&logoColor=white&link=https://declanchidlow.github.io)](https://declanchidlow.github.io)
+[![Website Badge](https://img.shields.io/badge/-vale.rocks-blue?style=for-the-badge&logo=Internet-Explorer&logoColor=white&link=https://vale.rocks)](https://vale.rocks)
 
 ### Competent With...
 [![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org)
