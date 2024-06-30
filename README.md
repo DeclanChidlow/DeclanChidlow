@@ -31,5 +31,5 @@ When I'm not bodging together some script or reinventing the wheel, you might fi
 
 <h2 align="center">Like what you see?</h2>
 
-If you enjoy my work, then [consider supporting me financially](https://vale.rocks/donate). \
+If you enjoy my work, then [consider supporting me financially](https://vale.rocks/support). \
 If you're particularly impressed, I'm always open to work. Get in touch [through my website](https://vale.rocks/contact).
