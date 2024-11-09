@@ -14,7 +14,7 @@
 <p>
 I'm Declan Chidlow, a passionate frontend developer. I like to believe I've got an eye for aesthetics, and I've most definitely got a love for learning. My ultimate aspiration is to create digital experiences that are both functional and visually appealing.
 
-When I'm not bodging together some script or reinventing the wheel, you might find me cruising around on my unicycle. Alternatively, you may find me writing up some form of article for [my website](https://vale.rocks), doing some gaming, inadvertently converting an otherwise functional piece of tech into a paperweight, or browsing the crevices of cyberspace. Within this digital domain, I sling scripts, inspect issues, and propose pull requests, so flick me a follow.
+When I'm not bodging together some script or reinventing the wheel, you might find me cruising around on my unicycle. Alternatively, you may find me writing up some form of article for [my website](https://vale.rocks/?utm_source=GitHubBio), doing some gaming, inadvertently converting an otherwise functional piece of tech into a paperweight, or browsing the crevices of cyberspace. Within this digital domain, I sling scripts, inspect issues, and propose pull requests, so flick me a follow.
 
 </p>
 
@@ -31,5 +31,5 @@ When I'm not bodging together some script or reinventing the wheel, you might fi
 
 <h2 align="center">Like what you see?</h2>
 
-If you enjoy my work, then [consider supporting me financially](https://vale.rocks/support). \
-If you're particularly impressed, I'm always open to work. Get in touch [through my website](https://vale.rocks/contact).
+If you enjoy my work, then [consider supporting me financially](https://vale.rocks/support?utm_source=GitHubBio). \
+If you're particularly impressed, I'm always open to work. Get in touch [through my website](https://vale.rocks/contact?utm_source=GitHubBio).
