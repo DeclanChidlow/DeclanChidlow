@@ -2,13 +2,15 @@
 
 <p align="center">
 	<a href="https://gitlab.com/DeclanChidlow">
-    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white" alt="GitLab"></a>
+    		<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white" alt="GitLab"></a>
 	<a href="https://fedi.vale.rocks/vale">
-	<img src="https://img.shields.io/badge/Fediverse-F1007E?style=for-the-badge&logo=ActivityPub&logoColor=white" alt="Fediverse"></a>
- 	<a href="https://bsky.vale.rocks">
-	<img src="https://img.shields.io/badge/Bluesky-0085ff?style=for-the-badge&logo=Bluesky&logoColor=white" alt="Bluesky"></a>
-	<a href="https://www.linkedin.com/in/declan-chidlow">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
+		<img src="https://img.shields.io/badge/Fediverse-F1007E?style=for-the-badge&logo=ActivityPub&logoColor=white" alt="Fediverse"></a>
+ 	<a href="https://bsky.app/profile/vale.rocks">
+		<img src="https://img.shields.io/badge/Bluesky-0085ff?style=for-the-badge&logo=Bluesky&logoColor=white" alt="Bluesky"></a>
+	<a href="https://codepen.io/OuterVale">
+    		<img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=CodePen&logoColor=black" alt="CodePen"></a>
+	<a href="https://news.ycombinator.com/user?id=OuterVale">
+    		<img src="https://img.shields.io/badge/Hacker_News-F0652F?style=for-the-badge&logo=YCombinator&logoColor=white" alt="Hacker News"></a>
 </p>
 
 <p>
