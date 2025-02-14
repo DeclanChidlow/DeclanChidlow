@@ -23,10 +23,6 @@ When I'm not bodging together some script or reinventing the wheel, you might fi
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-    <img src="https://streak-stats.demolab.com?user=DeclanChidlow&theme=github-dark&date_format=j%2Fn%5B%2FY%5D&mode=weekly" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=DeclanChidlow&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeclanChidlow&theme=github_dark&layout=compact&langs_count=8" alt="Most Used Languages"/>
 </p>
